@@ -1,87 +1,147 @@
-# Data-Analysis-Dashboard
 📊 Super Store Sales Dashboard – Power BI Project
-🔎 Project Overview
+🔎 Power BI Project Overview
 
-This Power BI project presents an interactive Sales Performance Dashboard built using the Super Store dataset.
-The dashboard provides detailed insights into sales, profit, orders, shipping performance, regional analysis, and 15-day sales forecasting.
+This project presents an end-to-end Business Intelligence solution built in Power BI using the Super Store dataset.
+It covers data import, transformation, modeling, visualization, forecasting, and business insights generation.
 
-The goal of this project is to analyze business performance, identify trends, and support data-driven decision-making.
+🎯 Power BI Project Objective
 
-📌 Key Metrics (KPIs)
+The objective of this project is to:
 
-Total Sales: 2M
+Analyze sales and profit performance
 
-Total Profit: 175K
+Identify regional and category trends
 
-Total Orders: 22K
+Evaluate shipping efficiency
 
-Average Ship Days: 4 Days
+Build a 15-day sales forecast
 
-📈 Dashboard Features
-📅 Sales Analysis
+Create an interactive and user-friendly dashboard
 
-Monthly Sales Trend
+📥 Import Data in Power BI
 
-Monthly Profit Trend
+Imported Super Store dataset into Power BI
 
-Sales Growth Patterns
+Verified data types and relationships
 
-Seasonality Analysis
+🧹 Data Cleaning & Processing in Power BI
 
-🚚 Shipping Analysis
+Removed duplicates
 
-Sales by Ship Mode (Standard, Second, First, Same Day)
+Handled missing values
 
-Shipping performance comparison
+Corrected data formats
 
-🌍 Regional & State Analysis
+Standardized column names
 
-Sales by Region (Central, East, South, West)
+🔄 Power Query Editor in Power BI
 
-Sales and Profit by State (Map Visualization)
+Data transformation
 
-Top performing states
+Filtering rows
 
-🛍 Category & Product Analysis
+Splitting & merging columns
 
-Sales by Category (Technology, Furniture, Office Supplies)
+Creating custom columns
 
-Sales by Sub-Category (Phones, Chairs, Binders, Storage, Accessories)
+Applied transformation steps
 
-🔮 Sales Forecasting
+📊 DAX in Power BI
 
-15 Days Sales Forecast
+Used DAX to create key performance indicators (KPIs):
 
-Forecast with Confidence Interval
+Total Sales
+
+Total Profit
+
+Order Count
+
+Average Shipping Days
+
+Monthly Sales
+
+Monthly Profit
+
+📐 Measures and Calculations in Power BI
+
+Created calculated measures using:
+
+SUM()
+
+COUNT()
+
+CALCULATE()
+
+DIVIDE()
+
+Time intelligence functions
+
+🧮 Create New Columns and Tables in Power BI
+
+Created calculated columns
+
+Created date table for time analysis
+
+Built data model relationships
+
+📊 Advanced Charts and Maps in Power BI
+
+Line Charts (Monthly Sales & Profit Trends)
+
+Bar Charts (Category & Sub-Category Analysis)
+
+Map Visualization (Sales & Profit by State)
+
+KPI Cards
+
+Pie Charts
+
+🎛 Filters and Slicers in Power BI
+
+Region slicer (Central, East, South, West)
+
+Interactive filtering
+
+Cross-filtering between visuals
+
+🔍 Zoom in Charts in Power BI
+
+Drill-through functionality
+
+Zoom slider in time-series chart
+
+Focus mode for detailed analysis
+
+🔮 Forecasting in Power BI
+
+Built 15-Day Sales Forecast
+
+Used built-in Power BI forecasting tools
+
+Added confidence interval
+
+📈 Power BI Sales Forecast
 
 Time-series trend analysis
 
-🛠 Tools & Skills Used
+Future sales prediction
 
-Power BI
+Seasonal pattern observation
 
-Data Modeling
+📤 Export Power BI Dashboard
 
-DAX Measures
+Exported dashboard as PDF
 
-Time Series Analysis
+Shared interactive report
 
-Forecasting
+💡 Insights from Dashboard
 
-Data Visualization
+Technology category generates high revenue
 
-Business Intelligence Reporting
+Standard Class shipping is most used
 
-🎯 Business Value
+Certain states outperform others in sales
 
-This dashboard helps:
+Sales show seasonal fluctuations
 
-Track overall business performance
-
-Identify high-performing categories and regions
-
-Monitor shipping efficiency
-
-Forecast future sales trends
-
-Support strategic decision-making
+Forecast indicates potential upward trend
